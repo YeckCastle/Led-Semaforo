@@ -1,2 +1,2 @@
 # Led-Semaforo
-Tres leds funcionando como semaforo
+Tres leds funcionando como semaforo en Arduino
